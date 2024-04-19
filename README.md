@@ -23,10 +23,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/QjSoXOQIcEXBu.webp"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -64,7 +60,13 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MarlonG1/MarlonG1/output/snake.svg" alt="Snake animation" />
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
 ###
 
