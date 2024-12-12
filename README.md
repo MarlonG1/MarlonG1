@@ -15,12 +15,6 @@
 <p align="left">👋 Hello! I'm Marlon Isaac Hernández García, a passionate student of software development engineering. Ever since I discovered the world of programming, I've been immersed in the exciting process of creating innovative solutions through code. 💻 I'm a backend developer and a solution architect in progress.</p>
 
 ###
-</br>
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarlonG1&theme=github_dark&hide_border=true"/>
-</p>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -43,9 +37,6 @@
 
 <div>
 <div align="center">
-  <a href="https://www.instagram.com/marlon.hgarcia/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
   <a href="mailto:marlon.hgarciaa@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
